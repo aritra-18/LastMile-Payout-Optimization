@@ -1,4 +1,4 @@
-# LastMile-Payout-Optimization-Rivigo
+# LastMile-Payout-Optimization
 Optimize last-mile delivery partner payouts using data analysis and visualization for financial efficiency
 
 This GitHub repository showcases a project focused on optimizing the payouts of over 500 last-mile delivery partners across the country. The objective is to align partner payouts with the allocated budget, ensuring the financial success of the organization.
